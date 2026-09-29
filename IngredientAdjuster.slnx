@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IngredientAdjuster/IngredientAdjuster.vcxproj" Id="ccae40de-d5f0-4d7d-8ecb-1dbe3465ccd9" />
+</Solution>
